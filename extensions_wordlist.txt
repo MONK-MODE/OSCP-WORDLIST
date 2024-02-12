@@ -118,7 +118,6 @@ php%0a
 php..........
 pHp5....
 php/
-php/
 php.\
 png.php
 png.pHp5
